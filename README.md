@@ -1,2 +1,2 @@
 # innovation-and-inequality
-Code for "nequality, Technological Change, and Policy Preferences: Evidence from a Randomized Survey Experiment in Germany"
+Code for "Inequality, Technological Change, and Policy Preferences: Evidence from a Randomized Survey Experiment in Germany"
